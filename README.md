@@ -1,2 +1,0 @@
-# faceless-jobs
-test
